@@ -11,4 +11,4 @@
 
 🎓 Adoro aprender coisas novas e estou sempre em busca de desafios que me permitam crescer profissionalmente e pessoalmente. Acredito que a atualização constante e a vontade de aprender são essenciais para se destacar no mercado de trabalho e contribuir de maneira eficaz em qualquer equipe.
 
-📫 Pode me encontrar no [LinkedIn](www.linkedin.com/in/deivid-munhoz).
+📫 Pode me encontrar no [LinkedIn](https://www.linkedin.com/in/deivid-munhoz).
