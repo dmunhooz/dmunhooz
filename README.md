@@ -1,6 +1,3 @@
-
-# Título do Proj
-
 ## Sobre Mim
 
 👋 Olá! Sou Deivid, tenho 25 anos e tenho formação técnica em Administração e Logística. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
