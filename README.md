@@ -1,28 +1,14 @@
 
 # Título do Proj
 
-Uma breve descrição sobre o que es projeto faz e para quem ele 
+## Sobre Mim
 
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Tsdasda
+👋 Olá! Sou Deivid, tenho 25 anos e tenho formação técnica em Administração e Logística. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
-🧠 Estou sddsndendo...
+🌍 Sou fluente em português e possuo inglês intermediário, o que me permite explorar e colaborar em projetos internacionais. 
 
-👯‍♀️ Procuro codsdorar em...
+💼 Minha experiência inclui anos trabalhando com atendimento ao público, tanto como estagiário na prefeitura quanto em outros estabelecimentos.
 
-🤔 Procuro ajuda com...
+🎓 Adoro aprender coisas novas e estou sempre em busca de desafios que me permitam crescer profissionalmente e pessoalmente. Acredito que a atualização constante e a vontade de aprender são essenciais para se destacar no mercado de trabalho e contribuir de maneira eficaz em qualquer equipe.
 
-💬 Me pergucxcnte sobre...
-
-📫 Como entrar em contato comigo...
-
-😄 Pronomes...
-
-⚡️ Fatos engraçados...
-
-
-## Stack utilizada
-
-**Front-end:** dsdsdd, Redux, TailwindCSS
-
-**Back-end:** Nfdfe, Exgfgss
+📫 Pode me encontrar no [LinkedIn](www.linkedin.com/in/deivid-munhoz).
